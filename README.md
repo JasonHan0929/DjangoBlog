@@ -22,8 +22,12 @@
 ## How to run:
 
 ```bash
-	# /
+# /
 
-	source env/bin/activate
-	python manage.py runserver
+source env/bin/activate
+python src/manage.py runserver
 ```
+
+## Not finished:
+	
+In the navigation bar, except the home page, other pages such as about-me page and contact-me page havn't been finished
