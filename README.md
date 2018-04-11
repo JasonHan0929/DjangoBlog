@@ -10,9 +10,14 @@
 * Full-text and highlight(by Haystack + jieba)
 * RSS
 
-## Database
+## Database:
 
 * sqllite
+
+## Admin:
+
+* username: admin
+* password: djangoblog
 
 ## How to run:
 
